@@ -15,7 +15,7 @@ print(phrase.lower().islower())
 print(len(phrase))
 
 print(phrase[3])
-print(phrase.index("l"))  #this function return the index where the character is placed
+print(phrase.index("l"))  #this function returns the index where the character is placed
                           #if there are several similar character, the function
                           #will return the first one that encounters
 
